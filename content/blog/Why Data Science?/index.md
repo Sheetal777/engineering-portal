@@ -29,3 +29,8 @@ Data science is a field which uses scientific processes,  methods, algorithms & 
 
 Data science is a "Concept to analyze data, unify statistics, and related procedures". It is done in to "understand & analyze real phenomena" with data. It also uses theories and techniques withdrawn from various fields. These fields are within the context of statistics, mathematics, computer science, information science, and domain knowledge.
 
+# The "WHY"
+
+## Demands
+
+Are you one of those who get curious about the job profiles like Data Scientist, Data Analytics, Machine Learning Engineer but feel yourself not capable enough to reach that spot. Here are some of the pointers you need to keep in mind before making a roadmap for yourself. Well, a 
